@@ -1,0 +1,17 @@
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0-windows\StudentGrading.exe
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0-windows\StudentGrading.deps.json
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0-windows\StudentGrading.runtimeconfig.json
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0-windows\StudentGrading.dll
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0-windows\StudentGrading.pdb
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.csproj.AssemblyReference.cache
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.Form1.resources
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.csproj.GenerateResource.cache
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.AssemblyInfoInputs.cache
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.AssemblyInfo.cs
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.dll
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\refint\StudentGrading.dll
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.pdb
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\StudentGrading.genruntimeconfig.cache
+C:\Users\solan\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0-windows\ref\StudentGrading.dll
